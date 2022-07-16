@@ -8,7 +8,7 @@ All assets I've made are free to use. Everything else was free and has been link
 
 Hope you enjoy!
 
-## Dependancies
+## Dependencies
 
 This project needs cyanemu, udonsharp, and the vrchat sdk to work. Please import them before importing this package. They are linked below.
 
@@ -32,4 +32,4 @@ This project needs cyanemu, udonsharp, and the vrchat sdk to work. Please import
     - [Normals for the water shader](https://textures.pixel-furnace.com/texture?name=Animated%20Water)
     - [Most Everything Else](https://3dtextures.me/)
 - Sounds
-	- [Toilet Flush](https://freesound.org/people/Huminaatio/sounds/331897/)
+    - [Toilet Flush](https://freesound.org/people/Huminaatio/sounds/331897/)
