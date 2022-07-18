@@ -10,7 +10,7 @@ Hope you enjoy!
 
 ## Dependencies
 
-This project needs cyanemu, udonsharp, and the vrchat sdk to work. Please import them before importing this package. They are linked below.
+This project needs cyanemu, udonsharp, ProTv, and the vrchat sdk to work. Please import them before importing this package. They are linked below.
 
 ## Credits for assets used.
 
@@ -33,3 +33,5 @@ This project needs cyanemu, udonsharp, and the vrchat sdk to work. Please import
     - [Most Everything Else](https://3dtextures.me/)
 - Sounds
     - [Toilet Flush](https://freesound.org/people/Huminaatio/sounds/331897/)
+- Video Player
+	- [ProTV Player](https://www.vrcarena.com/assets/78057792-d297-49ab-9f7c-2928c90fde82)
