@@ -8,6 +8,10 @@ All assets I've made are free to use. Everything else was free and has been link
 
 Hope you enjoy!
 
+## UPDATE
+This world is also available in cvr, and uses [CVR's CCK](https://developers.abinteractive.net/cck/setup/). Download that for setup.
+The CVR version does not use cyanemu, udonsharp, or ProTv.
+
 ## Dependencies
 
 This project needs cyanemu, udonsharp, ProTv, and the vrchat sdk to work. Please import them before importing this package. They are linked below.
