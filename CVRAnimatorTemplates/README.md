@@ -48,7 +48,7 @@ Scaling templates are for adding scaling to an avatar to make it grow bigger or 
 There are four.
 - `ScalingBlendTree`
 	+ Most effecient and simple. Uses a single layer and blend tree.
-	+ Needs the following AdvancedSettings
+	+ Adds the following AdvancedSettings
 		* `AvatarScale`: Preferably a Slider but an Input Single is also usable.
 	+ The override contoller allows you to replace the following animations
 		* `ScaleMax`: The largest scale of the gameobject(usually the avatar)
@@ -57,7 +57,7 @@ There are four.
 	+ `AvatarScale` is from 0 to 1 where 0 is smallest, 1 is largest, and 0.5 is standard.
 - `ScalingBlendTreeTouchToggle`
 	+ Like `ScalingBlendTree` but adds support for a toggle for touch triggers on the avatar(for scaling by touching your wrist for example.)
-	+ Needs the following AdvancedSettings
+	+ Adds the following AdvancedSettings
 		* `AvatarScale`: Preferably a Slider but an Input Single is also usable.
 		* `TouchToggle`: Use a game object toggle for this.
 	+ The override contoller allows you to replace the following animations
@@ -68,7 +68,7 @@ There are four.
 	+ `AvatarScale` is from 0 to 1 where 0 is smallest, 1 is largest, and 0.5 is standard.
 - `ScalingMotionTime`
 	+ Scales the avatar using a single animation and motion time.
-	+ Needs the following AdvancedSettings
+	+ Adds the following AdvancedSettings
 		* `AvatarScale`: Preferably a Slider but an Input Single is also usable.
 	+ The override contoller allows you to replace the following animations
 		* `ScaleCombined` An animation with at least two keyframes with the smallest and largest scales. A third in the middle is suggested for an "Average" scale.
@@ -81,7 +81,7 @@ There are four.
 		* Google the modulo operator idk.
 - `ScalingMotionTimeTouchToggle`
 	+ Like `ScalingMotionTime` but adds support for a toggle for touch triggers on the avatar(for scaling by touching your wrist for example.)
-	+ Needs the following AdvancedSettings
+	+ Adds the following AdvancedSettings
 		* `AvatarScale`: Preferably a Slider but an Input Single is also usable.
 		* `TouchToggle`: Use a game object toggle for this.
 	+ The override contoller allows you to replace the following animations
