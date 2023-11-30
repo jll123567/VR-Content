@@ -2,6 +2,9 @@
 A set of templates for basic animator tasks in cvr.
 
 ## Usage
+
+Update: [SimpleAAS](https://github.com/NotAKidOnSteam/SimpleAAS) is pretty helpful looking but I haven't tried it yet. Will probably rework this to use that at a later time.
+
 ### Simple
 For just adding expressions and uploading, barely any customization.
 1. Select the template you want to use.
