@@ -17,3 +17,5 @@ I want people to be credited for their work.
 
 As long as I made it: its [CC0(Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/) so sure go nuts.
 
+For assets I didn't make, check the licencing. Some requre attribution or a purchase to use.
+
