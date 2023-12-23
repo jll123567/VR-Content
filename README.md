@@ -1,2 +1,2 @@
 # VR-Content
-All my vr content for VRChat, ChilloutVR, and NEOS, as unitypackages or zip files.
+All my social VR content as unitypackages or zip files.
