@@ -1,33 +1,16 @@
 # CVR Animator Templates
 A set of templates for basic animator tasks in cvr.
 
+## Dependencies
+This package is most useful with and expects you to use [SimpleAAS](https://github.com/NotAKidOnSteam/SimpleAAS)
+
 ## Usage
 
-Update: [SimpleAAS](https://github.com/NotAKidOnSteam/SimpleAAS) is pretty helpful looking but I haven't tried it yet. Will probably rework this to use that at a later time.
-
-### Simple
-For just adding expressions and uploading, barely any customization.
-1. Select the template you want to use.
-2. Copy the template's override controller ({Template Name}Override.overrideController) somewhere.
-3. Select your copy and fill the slots with any animations you want to change.
-4. Drag your copy to the `Animation Overrides` field in your avatar's `CVR Avatar` component.
-5. Drag your copy to the `Override Controller` field under the `Advanced Settings` section in your avatar's `CVR Avatar` component.
-6. Add advanced settings corresponding to your selected template(see template descriptions below)
-7. Upload and use.
-
-### Advanced
-This is for adding onto the templates and requires some more stuff.
-
-1. Select the template you want to use.
-2. Drag the template's controller to the `Base Animator` field under the `Advanced Settings` section of your avatar's `CVR Avatar` component.
-3. Drag the template's coresponding override controller ({Template Name}Override) to the `Override Controller` field under the `Advanced Settings` section of your avatar's `CVR Avatar` component.
-4. Add the advanced settings corresponding to your selected template(see template descriptions below).
-5. Add additional advanced settings for other avatar features.
-6. Press the `CreateAnimator` button at the bottom of the `Advanced Settings` section then press `Attach Created Override to Avatar`.
-7. Your generated animators will be in `{Unity Project Path}\Assets\AdvancedSettings.Generated\{AvatarName}_AAS` (`{AvatarName}_aas.controller` and `{AvatarName}_aas_overrides.overrideController` )
-8. Select the Override Controller and fill the animations with whatever you want to replace.
-9. Further modifications should be done in the generated controller.
-7. Once its all done, upload and use.
+1. Select a template to use.
+2. Add a NAK Simple ASS component and fill in the override and avatar.
+3. Add the template controler to the controllers list and any other controlers you need.
+4. Press `Compile Controllers`
+5. Add the animations you need to the override controller(see below).
 
 ## Available Templates
 ### Expressive
